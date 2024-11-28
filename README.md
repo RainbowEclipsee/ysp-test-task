@@ -1,4 +1,7 @@
 # Тестовое задание. Компания YSP.
+1. Для запуска проекта - git clone либо скачиваем zip.
+2. npm install 
+3. npm start
 
 Отладочное API:
 https://rcslabs.ru/ttrp1.json
